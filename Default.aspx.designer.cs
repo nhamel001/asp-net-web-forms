@@ -21,6 +21,6 @@ namespace ASP.NET_Web_Forms
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.UserControl Header;
+        protected global::ASP.NET_Web_Forms.UserControl Header;
     }
 }

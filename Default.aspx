@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="ASP.NET_Web_Forms._Default" %>
 
-<%@ Register Src="~/UserControl.ascx.cs" TagName="WebControl" TagPrefix="TwebControl" %>
+<%@ Register Src="UserControl.ascx" TagName="WebControl" TagPrefix="TwebControl" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
